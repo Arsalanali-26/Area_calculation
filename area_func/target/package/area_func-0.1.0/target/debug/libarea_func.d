@@ -1,0 +1,1 @@
+C:\Users\arsalan.ali\Desktop\area_function\Area_calculation\area_func\target\package\area_func-0.1.0\target\debug\libarea_func.rlib: C:\Users\arsalan.ali\Desktop\area_function\Area_calculation\area_func\target\package\area_func-0.1.0\src\lib.rs
