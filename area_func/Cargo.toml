@@ -1,0 +1,12 @@
+[package]
+name = "area_func"
+version = "0.1.0"
+authors = ["arsalan.ali"]
+edition = "2018"
+discription = "Finding area of Circle"
+license = "MIT"
+repository = "https://github.com/Arsalanali-26/Area_calculation"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
