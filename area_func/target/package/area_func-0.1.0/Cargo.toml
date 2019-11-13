@@ -15,7 +15,7 @@ edition = "2018"
 name = "area_func"
 version = "0.1.0"
 authors = ["arsalan.ali"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/Arsalanali-26/Area_calculation"
 
 [dependencies]
